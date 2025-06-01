@@ -8,3 +8,13 @@ mkdir -p app lib assets/models
 
 # Create starter files
 touch app/main.dart lib/voice_service.dart .gitignore
+## AgriVoice Ghana
+A voice-based agricultural assistant for Ghanaian farmers.
+
+### Features
+- [ ] Voice recording in local languages
+- [ ] Speech-to-text conversion
+- [ ] Agricultural advice system
+
+### Setup
+`flutter pub get`
